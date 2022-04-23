@@ -1,0 +1,51 @@
+.mainHeader {
+	background-color:#D6FBFF;	
+}
+
+.sidebar {
+	background-color:#DFDFDF;
+}
+
+.calloutStyle {
+	margin-top:30px;
+}
+
+.box1 {
+	background-color:#D6FBFF;
+}
+.box2 {
+	background-color:white;
+}
+
+p{
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+h1{
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+	font-size: 40px;
+}
+
+h3{
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+	font-size: 20px;
+	font-style: italic;
+}
+
+h2{
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+	font-size: 35px;
+}
+
+.imageleft {
+	float:left;
+	margin-right:10opx;
+}
+.imageright {
+	float:right;
+	margin:10px 10px 10px 10px;
+}
+.imagearray {
+	float:right;
+	margin:10px;
+}
